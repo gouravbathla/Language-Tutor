@@ -1,0 +1,247 @@
+{
+  "model": "gpt-4o-mini",
+  "topic": "English Grammar",
+  "total": 20,
+  "questions": [
+    {
+      "number": 1,
+      "question": "Which sentence correctly uses the past perfect tense?",
+      "options": {
+        "A": "She has finished her homework.",
+        "B": "She had finished her homework before dinner.",
+        "C": "She will finish her homework tomorrow.",
+        "D": "She finishes her homework every day."
+      },
+      "answer": "B",
+      "explanation": "The past perfect tense is used to indicate an action that was completed before another action in the past."
+    },
+    {
+      "number": 2,
+      "question": "Identify the correct form of the verb in the sentence: \"They __________ to the store every Saturday.\"",
+      "options": {
+        "A": "goes",
+        "B": "gone",
+        "C": "go",
+        "D": "going"
+      },
+      "answer": "C",
+      "explanation": "The base form \"go\" agrees with the plural subject \"they.\""
+    },
+    {
+      "number": 3,
+      "question": "Which of the following sentences uses a conjunction correctly?",
+      "options": {
+        "A": "I wanted to go, but it was raining.",
+        "B": "She faster than her brother.",
+        "C": "We dance every Saturday and.",
+        "D": "The book on the table is mine, however."
+      },
+      "answer": "A",
+      "explanation": "\"But\" correctly connects two independent clauses in the sentence."
+    },
+    {
+      "number": 4,
+      "question": "Choose the correct punctuation for the following sentence: \"I need milk eggs bread and cheese.\"",
+      "options": {
+        "A": "I need: milk, eggs, bread and cheese.",
+        "B": "I need milk, eggs, bread, and cheese.",
+        "C": "I need milk eggs, bread, and cheese.",
+        "D": "I need milk; eggs, bread and cheese."
+      },
+      "answer": "B",
+      "explanation": "A comma is needed before the conjunction in a list to clarify the items."
+    },
+    {
+      "number": 5,
+      "question": "Which of the following is an adverb?",
+      "options": {
+        "A": "Happy",
+        "B": "Quickly",
+        "C": "Cat",
+        "D": "Blue"
+      },
+      "answer": "B",
+      "explanation": "\"Quickly\" modifies a verb and describes how an action is performed, making it an adverb."
+    },
+    {
+      "number": 6,
+      "question": "Identify the correct version of the sentence: \"Each of the students __________ responsible for their own work.\"",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "was",
+        "D": "be"
+      },
+      "answer": "B",
+      "explanation": "\"Each\" is a singular subject, thus requiring a singular verb \"is.\""
+    },
+    {
+      "number": 7,
+      "question": "Which sentence uses a preposition correctly?",
+      "options": {
+        "A": "The book is on the table.",
+        "B": "She is studying in home.",
+        "C": "I will meet you for Monday.",
+        "D": "He walked to park."
+      },
+      "answer": "A",
+      "explanation": "\"On\" is the correct preposition to indicate the book's location."
+    },
+    {
+      "number": 8,
+      "question": "Select the phrase that correctly uses the definite article.",
+      "options": {
+        "A": "She wants an apple.",
+        "B": "He goes to the gym every day.",
+        "C": "They have a ideas for the project.",
+        "D": "I bought an book yesterday."
+      },
+      "answer": "B",
+      "explanation": "\"The\" is correctly used before \"gym\" to indicate a specific place."
+    },
+    {
+      "number": 9,
+      "question": "Choose the sentence with a fragment.",
+      "options": {
+        "A": "She enjoys reading historical novels.",
+        "B": "Because she loves history.",
+        "C": "He went to the concert last night.",
+        "D": "They will be traveling next week."
+      },
+      "answer": "B",
+      "explanation": "This is a fragment since it does not express a complete thought."
+    },
+    {
+      "number": 10,
+      "question": "Which of the following sentences contains a subject-verb agreement error?",
+      "options": {
+        "A": "The team are winning the game.",
+        "B": "The dogs bark loudly at night.",
+        "C": "She runs every morning.",
+        "D": "The baby giggles at funny faces."
+      },
+      "answer": "A",
+      "explanation": "\"Team\" is a collective noun considered singular, so it should be \"is winning.\""
+    },
+    {
+      "number": 11,
+      "question": "Identify the correct verb tense: \"By next year, I __________ my degree.\"",
+      "options": {
+        "A": "will complete",
+        "B": "will have completed",
+        "C": "completed",
+        "D": "complete"
+      },
+      "answer": "B",
+      "explanation": "The future perfect tense indicates an action that will be finished before a specified future time."
+    },
+    {
+      "number": 12,
+      "question": "Which of the following is a conjunction?",
+      "options": {
+        "A": "Although",
+        "B": "quickly",
+        "C": "pencil",
+        "D": "under"
+      },
+      "answer": "A",
+      "explanation": "\"Although\" is a subordinating conjunction used to connect clauses."
+    },
+    {
+      "number": 13,
+      "question": "Choose the correctly punctuated sentence: \"Please bring the following items: a pencil scissors and paper.\"",
+      "options": {
+        "A": "Please bring the following items, a pencil, scissors and paper.",
+        "B": "Please bring: the following items, a pencil scissors and paper.",
+        "C": "Please bring the following items: a pencil, scissors, and paper.",
+        "D": "Please: bring the following items a pencil scissors and paper."
+      },
+      "answer": "C",
+      "explanation": "A colon introduces a list, and commas separate the items."
+    },
+    {
+      "number": 14,
+      "question": "Which pronoun correctly completes the sentence? \"Neither of the answers was __________.\"",
+      "options": {
+        "A": "correct",
+        "B": "corrects",
+        "C": "correctly",
+        "D": "correctness"
+      },
+      "answer": "A",
+      "explanation": "\"Neither\" takes a singular verb and should be followed by an adjective."
+    },
+    {
+      "number": 15,
+      "question": "Identify the correct form to complete the sentence: \"She is a more skilled pianist __________ her brother.\"",
+      "options": {
+        "A": "than",
+        "B": "then",
+        "C": "that",
+        "D": "as"
+      },
+      "answer": "A",
+      "explanation": "\"Than\" is used for making comparisons."
+    },
+    {
+      "number": 16,
+      "question": "Which sentence correctly uses the future continuous tense?",
+      "options": {
+        "A": "I am reading a book tomorrow.",
+        "B": "I will be reading a book at 8 PM.",
+        "C": "I read a book every night.",
+        "D": "I have read a book yesterday."
+      },
+      "answer": "B",
+      "explanation": "\"Will be reading\" indicates an action that will be ongoing at a specific future time."
+    },
+    {
+      "number": 17,
+      "question": "What is the correct form of the noun in this sentence? \"The __________ of the story is meaningful.\"",
+      "options": {
+        "A": "themes",
+        "B": "theme",
+        "C": "theme's",
+        "D": "them"
+      },
+      "answer": "B",
+      "explanation": "The singular noun \"theme\" correctly fits the sentence structure."
+    },
+    {
+      "number": 18,
+      "question": "Which of the following is an example of a complex sentence?",
+      "options": {
+        "A": "She runs every day and swims.",
+        "B": "Although it was raining, we went for a walk.",
+        "C": "They traveled to Paris.",
+        "D": "He enjoys music."
+      },
+      "answer": "B",
+      "explanation": "This sentence contains an independent clause and a dependent clause."
+    },
+    {
+      "number": 19,
+      "question": "Choose the correct preposition to complete the sentence: \"He is very talented __________ math.\"",
+      "options": {
+        "A": "in",
+        "B": "on",
+        "C": "for",
+        "D": "at"
+      },
+      "answer": "D",
+      "explanation": "\"Talented at\" is the correct phrase to indicate proficiency in a subject."
+    },
+    {
+      "number": 20,
+      "question": "Which sentence contains an error in the use of commas?",
+      "options": {
+        "A": "Before dinner, we washed our hands.",
+        "B": "My favorite colors are red, blue, and green.",
+        "C": "The teacher, who loves history, is retiring.",
+        "D": "I want to go, but I am too tired."
+      },
+      "answer": "D",
+      "explanation": "This sentence is correctly punctuated; it contains no comma error. All the sentences are correct, indicating an error in the question setup."
+    }
+  ]
+}
